@@ -1,0 +1,729 @@
+Name,Type,Category,Contest
+Pound,Normal,Physical,Tough
+Karate Chop,Fighting,Physical,Tough
+Double Slap,Normal,Physical,Cute
+Comet Punch,Normal,Physical,Tough
+Mega Punch,Normal,Physical,Tough
+Pay Day,Normal,Physical,Clever
+Fire Punch,Fire,Physical,Tough
+Ice Punch,Ice,Physical,Beautiful
+Thunder Punch,Electric,Physical,Cool
+Scratch,Normal,Physical,Tough
+Vice Grip,Normal,Physical,Tough
+Guillotine,Normal,Physical,Cool
+Razor Wind,Normal,Special,Cool
+Swords Dance,Normal,Status,Beautiful
+Cut,Normal,Physical,Cool
+Gust,Flying,Special,Clever
+Wing Attack,Flying,Physical,Cool
+Whirlwind,Normal,Status,Clever
+Fly,Flying,Physical,Clever
+Bind,Normal,Physical,Tough
+Slam,Normal,Physical,Tough
+Vine Whip,Grass,Physical,Cool
+Stomp,Normal,Physical,Tough
+Double Kick,Fighting,Physical,Cool
+Mega Kick,Normal,Physical,Cool
+Jump Kick,Fighting,Physical,Cool
+Rolling Kick,Fighting,Physical,Cool
+Sand Attack,Ground,Status,Cute
+Headbutt,Normal,Physical,Tough
+Horn Attack,Normal,Physical,Cool
+Fury Attack,Normal,Physical,Cool
+Horn Drill,Normal,Physical,Cool
+Tackle,Normal,Physical,Tough
+Body Slam,Normal,Physical,Tough
+Wrap,Normal,Physical,Tough
+Take Down,Normal,Physical,Tough
+Thrash,Normal,Physical,Tough
+Double-Edge,Normal,Physical,Tough
+Tail Whip,Normal,Status,Cute
+Poison Sting,Poison,Physical,Clever
+Twineedle,Bug,Physical,Cool
+Pin Missile,Bug,Physical,Cool
+Leer,Normal,Status,Cool
+Bite,Dark,Physical,Tough
+Growl,Normal,Status,Cute
+Roar,Normal,Status,Cool
+Sing,Normal,Status,Cute
+Supersonic,Normal,Status,Clever
+Sonic Boom,Normal,Special,Cool
+Disable,Normal,Status,Clever
+Acid,Poison,Special,Clever
+Ember,Fire,Special,Cute
+Flamethrower,Fire,Special,Beautiful
+Mist,Ice,Status,Beautiful
+Water Gun,Water,Special,Cute
+Hydro Pump,Water,Special,Beautiful
+Surf,Water,Special,Beautiful
+Ice Beam,Ice,Special,Beautiful
+Blizzard,Ice,Special,Beautiful
+Psybeam,Psychic,Special,Beautiful
+Bubble Beam,Water,Special,Beautiful
+Aurora Beam,Ice,Special,Beautiful
+Hyper Beam,Normal,Special,Cool
+Peck,Flying,Physical,Cool
+Drill Peck,Flying,Physical,Cool
+Submission,Fighting,Physical,Cool
+Low Kick,Fighting,Physical,Tough
+Counter,Fighting,Physical,Tough
+Seismic Toss,Fighting,Physical,Tough
+Strength,Normal,Physical,Tough
+Absorb,Grass,Special,Clever
+Mega Drain,Grass,Special,Clever
+Leech Seed,Grass,Status,Clever
+Growth,Normal,Status,Beautiful
+Razor Leaf,Grass,Physical,Cool
+Solar Beam,Grass,Special,Cool
+Poison Powder,Poison,Status,Clever
+Stun Spore,Grass,Status,Clever
+Sleep Powder,Grass,Status,Clever
+Petal Dance,Grass,Special,Beautiful
+String Shot,Bug,Status,Clever
+Dragon Rage,Dragon,Special,Cool
+Fire Spin,Fire,Special,Beautiful
+Thunder Shock,Electric,Special,Cool
+Thunderbolt,Electric,Special,Cool
+Thunder Wave,Electric,Status,Cool
+Thunder,Electric,Special,Cool
+Rock Throw,Rock,Physical,Tough
+Earthquake,Ground,Physical,Tough
+Fissure,Ground,Physical,Tough
+Dig,Ground,Physical,Tough
+Toxic,Poison,Status,Clever
+Confusion,Psychic,Special,Clever
+Psychic,Psychic,Special,Clever
+Hypnosis,Psychic,Status,Clever
+Meditate,Psychic,Status,Beautiful
+Agility,Psychic,Status,Cool
+Quick Attack,Normal,Physical,Cool
+Rage,Normal,Physical,Tough
+Teleport,Psychic,Status,Cool
+Night Shade,Ghost,Special,Clever
+Mimic,Normal,Status,Cute
+Screech,Normal,Status,Clever
+Double Team,Normal,Status,Cool
+Recover,Normal,Status,Clever
+Harden,Normal,Status,Tough
+Minimize,Normal,Status,Cute
+Smokescreen,Normal,Status,Clever
+Confuse Ray,Ghost,Status,Clever
+Withdraw,Water,Status,Cute
+Defense Curl,Normal,Status,Cute
+Barrier,Psychic,Status,Cool
+Light Screen,Psychic,Status,Beautiful
+Haze,Ice,Status,Beautiful
+Reflect,Psychic,Status,Clever
+Focus Energy,Normal,Status,Cool
+Bide,Normal,Physical,Tough
+Metronome,Normal,Status,Cute
+Mirror Move,Flying,Status,Clever
+Self-Destruct,Normal,Physical,Beautiful
+Egg Bomb,Normal,Physical,Cute
+Lick,Ghost,Physical,Cute
+Smog,Poison,Special,Tough
+Sludge,Poison,Special,Tough
+Bone Club,Ground,Physical,Tough
+Fire Blast,Fire,Special,Beautiful
+Waterfall,Water,Physical,Tough
+Clamp,Water,Physical,Tough
+Swift,Normal,Special,Cool
+Skull Bash,Normal,Physical,Tough
+Spike Cannon,Normal,Physical,Cool
+Constrict,Normal,Physical,Tough
+Amnesia,Psychic,Status,Cute
+Kinesis,Psychic,Status,Clever
+Soft-Boiled,Normal,Status,Cute
+High Jump Kick,Fighting,Physical,Cool
+Glare,Normal,Status,Tough
+Dream Eater,Psychic,Special,Clever
+Poison Gas,Poison,Status,Clever
+Barrage,Normal,Physical,Cute
+Leech Life,Bug,Physical,Clever
+Lovely Kiss,Normal,Status,Beautiful
+Sky Attack,Flying,Physical,Cool
+Transform,Normal,Status,Clever
+Bubble,Water,Special,Cute
+Dizzy Punch,Normal,Physical,Cute
+Spore,Grass,Status,Beautiful
+Flash,Normal,Status,Beautiful
+Psywave,Psychic,Special,Clever
+Splash,Normal,Status,Cute
+Acid Armor,Poison,Status,Tough
+Crabhammer,Water,Physical,Tough
+Explosion,Normal,Physical,Beautiful
+Fury Swipes,Normal,Physical,Tough
+Bonemerang,Ground,Physical,Tough
+Rest,Psychic,Status,Cute
+Rock Slide,Rock,Physical,Tough
+Hyper Fang,Normal,Physical,Cool
+Sharpen,Normal,Status,Cute
+Conversion,Normal,Status,Beautiful
+Tri Attack,Normal,Special,Beautiful
+Super Fang,Normal,Physical,Tough
+Slash,Normal,Physical,Cool
+Substitute,Normal,Status,Cute
+Struggle,Normal,Physical,Tough
+Sketch,Normal,Status,Clever
+Triple Kick,Fighting,Physical,Cool
+Thief,Dark,Physical,Tough
+Spider Web,Bug,Status,Clever
+Mind Reader,Normal,Status,Clever
+Nightmare,Ghost,Status,Clever
+Flame Wheel,Fire,Physical,Beautiful
+Snore,Normal,Special,Cute
+Curse,Ghost,Status,Tough
+Flail,Normal,Physical,Cute
+Conversion 2,Normal,Status,Beautiful
+Aeroblast,Flying,Special,Cool
+Cotton Spore,Grass,Status,Beautiful
+Reversal,Fighting,Physical,Cool
+Spite,Ghost,Status,Tough
+Powder Snow,Ice,Special,Beautiful
+Protect,Normal,Status,Cute
+Mach Punch,Fighting,Physical,Cool
+Scary Face,Normal,Status,Tough
+Feint Attack,Dark,Physical,Clever
+Sweet Kiss,Fairy,Status,Cute
+Belly Drum,Normal,Status,Cute
+Sludge Bomb,Poison,Special,Tough
+Mud-Slap,Ground,Special,Cute
+Octazooka,Water,Special,Tough
+Spikes,Ground,Status,Clever
+Zap Cannon,Electric,Special,Cool
+Foresight,Normal,Status,Clever
+Destiny Bond,Ghost,Status,Clever
+Perish Song,Normal,Status,Beautiful
+Icy Wind,Ice,Special,Beautiful
+Detect,Fighting,Status,Cool
+Bone Rush,Ground,Physical,Tough
+Lock-On,Normal,Status,Clever
+Outrage,Dragon,Physical,Cool
+Sandstorm,Rock,Status,Tough
+Giga Drain,Grass,Special,Clever
+Endure,Normal,Status,Tough
+Charm,Fairy,Status,Cute
+Rollout,Rock,Physical,Cute
+False Swipe,Normal,Physical,Cool
+Swagger,Normal,Status,Cute
+Milk Drink,Normal,Status,Cute
+Spark,Electric,Physical,Cool
+Fury Cutter,Bug,Physical,Cool
+Steel Wing,Steel,Physical,Cool
+Mean Look,Normal,Status,Beautiful
+Attract,Normal,Status,Cute
+Sleep Talk,Normal,Status,Cute
+Heal Bell,Normal,Status,Beautiful
+Return,Normal,Physical,Cute
+Present,Normal,Physical,Cute
+Frustration,Normal,Physical,Cute
+Safeguard,Normal,Status,Beautiful
+Pain Split,Normal,Status,Clever
+Sacred Fire,Fire,Physical,Beautiful
+Magnitude,Ground,Physical,Tough
+Dynamic Punch,Fighting,Physical,Cool
+Megahorn,Bug,Physical,Cool
+Dragon Breath,Dragon,Special,Cool
+Baton Pass,Normal,Status,Cute
+Encore,Normal,Status,Cute
+Pursuit,Dark,Physical,Clever
+Rapid Spin,Normal,Physical,Cool
+Sweet Scent,Normal,Status,Cute
+Iron Tail,Steel,Physical,Cool
+Metal Claw,Steel,Physical,Cool
+Vital Throw,Fighting,Physical,Cool
+Morning Sun,Normal,Status,Beautiful
+Synthesis,Grass,Status,Clever
+Moonlight,Fairy,Status,Beautiful
+Hidden Power,Normal,Special,Clever
+Cross Chop,Fighting,Physical,Cool
+Twister,Dragon,Special,Cool
+Rain Dance,Water,Status,Beautiful
+Sunny Day,Fire,Status,Beautiful
+Crunch,Dark,Physical,Tough
+Mirror Coat,Psychic,Special,Beautiful
+Psych Up,Normal,Status,Clever
+Extreme Speed,Normal,Physical,Cool
+Ancient Power,Rock,Special,Tough
+Shadow Ball,Ghost,Special,Clever
+Future Sight,Psychic,Special,Clever
+Rock Smash,Fighting,Physical,Tough
+Whirlpool,Water,Special,Beautiful
+Beat Up,Dark,Physical,Clever
+Fake Out,Normal,Physical,Cute
+Uproar,Normal,Special,Cute
+Stockpile,Normal,Status,Tough
+Spit Up,Normal,Special,Tough
+Swallow,Normal,Status,Tough
+Heat Wave,Fire,Special,Beautiful
+Hail,Ice,Status,Beautiful
+Torment,Dark,Status,Tough
+Flatter,Dark,Status,Clever
+Will-O-Wisp,Fire,Status,Beautiful
+Memento,Dark,Status,Tough
+Facade,Normal,Physical,Cute
+Focus Punch,Fighting,Physical,Tough
+Smelling Salts,Normal,Physical,Tough
+Follow Me,Normal,Status,Cute
+Nature Power,Normal,Status,Beautiful
+Charge,Electric,Status,Clever
+Taunt,Dark,Status,Clever
+Helping Hand,Normal,Status,Clever
+Trick,Psychic,Status,Clever
+Role Play,Psychic,Status,Cute
+Wish,Normal,Status,Cute
+Assist,Normal,Status,Cute
+Ingrain,Grass,Status,Clever
+Superpower,Fighting,Physical,Tough
+Magic Coat,Psychic,Status,Beautiful
+Recycle,Normal,Status,Clever
+Revenge,Fighting,Physical,Tough
+Brick Break,Fighting,Physical,Cool
+Yawn,Normal,Status,Cute
+Knock Off,Dark,Physical,Clever
+Endeavor,Normal,Physical,Tough
+Eruption,Fire,Special,Beautiful
+Skill Swap,Psychic,Status,Clever
+Imprison,Psychic,Status,Clever
+Refresh,Normal,Status,Cute
+Grudge,Ghost,Status,Tough
+Snatch,Dark,Status,Clever
+Secret Power,Normal,Physical,Clever
+Dive,Water,Physical,Beautiful
+Arm Thrust,Fighting,Physical,Tough
+Camouflage,Normal,Status,Clever
+Tail Glow,Bug,Status,Beautiful
+Luster Purge,Psychic,Special,Clever
+Mist Ball,Psychic,Special,Clever
+Feather Dance,Flying,Status,Beautiful
+Teeter Dance,Normal,Status,Cute
+Blaze Kick,Fire,Physical,Cool
+Mud Sport,Ground,Status,Cute
+Ice Ball,Ice,Physical,Beautiful
+Needle Arm,Grass,Physical,Clever
+Slack Off,Normal,Status,Cute
+Hyper Voice,Normal,Special,Cool
+Poison Fang,Poison,Physical,Clever
+Crush Claw,Normal,Physical,Cool
+Blast Burn,Fire,Special,Beautiful
+Hydro Cannon,Water,Special,Beautiful
+Meteor Mash,Steel,Physical,Cool
+Astonish,Ghost,Physical,Cute
+Weather Ball,Normal,Special,Beautiful
+Aromatherapy,Grass,Status,Clever
+Fake Tears,Dark,Status,Cute
+Air Cutter,Flying,Special,Cool
+Overheat,Fire,Special,Beautiful
+Odor Sleuth,Normal,Status,Clever
+Rock Tomb,Rock,Physical,Clever
+Silver Wind,Bug,Special,Beautiful
+Metal Sound,Steel,Status,Clever
+Grass Whistle,Grass,Status,Clever
+Tickle,Normal,Status,Cute
+Cosmic Power,Psychic,Status,Beautiful
+Water Spout,Water,Special,Beautiful
+Signal Beam,Bug,Special,Beautiful
+Shadow Punch,Ghost,Physical,Clever
+Extrasensory,Psychic,Special,Cool
+Sky Uppercut,Fighting,Physical,Cool
+Sand Tomb,Ground,Physical,Clever
+Sheer Cold,Ice,Special,Beautiful
+Muddy Water,Water,Special,Tough
+Bullet Seed,Grass,Physical,Cool
+Aerial Ace,Flying,Physical,Cool
+Icicle Spear,Ice,Physical,Beautiful
+Iron Defense,Steel,Status,Tough
+Block,Normal,Status,Cute
+Howl,Normal,Status,Cool
+Dragon Claw,Dragon,Physical,Cool
+Frenzy Plant,Grass,Special,Cool
+Bulk Up,Fighting,Status,Cool
+Bounce,Flying,Physical,Cute
+Mud Shot,Ground,Special,Tough
+Poison Tail,Poison,Physical,Clever
+Covet,Normal,Physical,Cute
+Volt Tackle,Electric,Physical,Cool
+Magical Leaf,Grass,Special,Beautiful
+Water Sport,Water,Status,Cute
+Calm Mind,Psychic,Status,Clever
+Leaf Blade,Grass,Physical,Cool
+Dragon Dance,Dragon,Status,Cool
+Rock Blast,Rock,Physical,Tough
+Shock Wave,Electric,Special,Cool
+Water Pulse,Water,Special,Beautiful
+Doom Desire,Steel,Special,Beautiful
+Psycho Boost,Psychic,Special,Clever
+Roost,Flying,Status,Clever
+Gravity,Psychic,Status,Clever
+Miracle Eye,Psychic,Status,Clever
+Wake-Up Slap,Fighting,Physical,Tough
+Hammer Arm,Fighting,Physical,Tough
+Gyro Ball,Steel,Physical,Cool
+Healing Wish,Psychic,Status,Beautiful
+Brine,Water,Special,Tough
+Natural Gift,Normal,Physical,Clever
+Feint,Normal,Physical,Clever
+Pluck,Flying,Physical,Cute
+Tailwind,Flying,Status,Cool
+Acupressure,Normal,Status,Tough
+Metal Burst,Steel,Physical,Cool
+U-turn,Bug,Physical,Cute
+Close Combat,Fighting,Physical,Tough
+Payback,Dark,Physical,Tough
+Assurance,Dark,Physical,Clever
+Embargo,Dark,Status,Clever
+Fling,Dark,Physical,Cute
+Psycho Shift,Psychic,Status,Clever
+Trump Card,Normal,Special,Cool
+Heal Block,Psychic,Status,Clever
+Wring Out,Normal,Special,Tough
+Power Trick,Psychic,Status,Clever
+Gastro Acid,Poison,Status,Tough
+Lucky Chant,Normal,Status,Cute
+Me First,Normal,Status,Clever
+Copycat,Normal,Status,Cute
+Power Swap,Psychic,Status,Clever
+Guard Swap,Psychic,Status,Clever
+Punishment,Dark,Physical,Cool
+Last Resort,Normal,Physical,Cute
+Worry Seed,Grass,Status,Clever
+Sucker Punch,Dark,Physical,Clever
+Toxic Spikes,Poison,Status,Clever
+Heart Swap,Psychic,Status,Clever
+Aqua Ring,Water,Status,Beautiful
+Magnet Rise,Electric,Status,Clever
+Flare Blitz,Fire,Physical,Cool
+Force Palm,Fighting,Physical,Cool
+Aura Sphere,Fighting,Special,Beautiful
+Rock Polish,Rock,Status,Tough
+Poison Jab,Poison,Physical,Tough
+Dark Pulse,Dark,Special,Cool
+Night Slash,Dark,Physical,Cool
+Aqua Tail,Water,Physical,Beautiful
+Seed Bomb,Grass,Physical,Tough
+Air Slash,Flying,Special,Cool
+X-Scissor,Bug,Physical,Cool
+Bug Buzz,Bug,Special,Beautiful
+Dragon Pulse,Dragon,Special,Beautiful
+Dragon Rush,Dragon,Physical,Tough
+Power Gem,Rock,Special,Beautiful
+Drain Punch,Fighting,Physical,Tough
+Vacuum Wave,Fighting,Special,Cool
+Focus Blast,Fighting,Special,Cool
+Energy Ball,Grass,Special,Beautiful
+Brave Bird,Flying,Physical,Cool
+Earth Power,Ground,Special,Beautiful
+Switcheroo,Dark,Status,Clever
+Giga Impact,Normal,Physical,Tough
+Nasty Plot,Dark,Status,Clever
+Bullet Punch,Steel,Physical,Tough
+Avalanche,Ice,Physical,Beautiful
+Ice Shard,Ice,Physical,Beautiful
+Shadow Claw,Ghost,Physical,Cool
+Thunder Fang,Electric,Physical,Cool
+Ice Fang,Ice,Physical,Cool
+Fire Fang,Fire,Physical,Cool
+Shadow Sneak,Ghost,Physical,Clever
+Mud Bomb,Ground,Special,Cute
+Psycho Cut,Psychic,Physical,Cool
+Zen Headbutt,Psychic,Physical,Clever
+Mirror Shot,Steel,Special,Beautiful
+Flash Cannon,Steel,Special,Beautiful
+Rock Climb,Normal,Physical,Tough
+Defog,Flying,Status,Cool
+Trick Room,Psychic,Status,Clever
+Draco Meteor,Dragon,Special,Beautiful
+Discharge,Electric,Special,Beautiful
+Lava Plume,Fire,Special,Tough
+Leaf Storm,Grass,Special,Beautiful
+Power Whip,Grass,Physical,Tough
+Rock Wrecker,Rock,Physical,Tough
+Cross Poison,Poison,Physical,Cool
+Gunk Shot,Poison,Physical,Tough
+Iron Head,Steel,Physical,Tough
+Magnet Bomb,Steel,Physical,Cool
+Stone Edge,Rock,Physical,Tough
+Captivate,Normal,Status,Cute
+Stealth Rock,Rock,Status,Cool
+Grass Knot,Grass,Special,Cute
+Chatter,Flying,Special,Cute
+Judgment,Normal,Special,Beautiful
+Bug Bite,Bug,Physical,Cute
+Charge Beam,Electric,Special,Beautiful
+Wood Hammer,Grass,Physical,Tough
+Aqua Jet,Water,Physical,Cool
+Attack Order,Bug,Physical,Clever
+Defend Order,Bug,Status,Clever
+Heal Order,Bug,Status,Clever
+Head Smash,Rock,Physical,Tough
+Double Hit,Normal,Physical,Cool
+Roar of Time,Dragon,Special,Beautiful
+Spacial Rend,Dragon,Special,Beautiful
+Lunar Dance,Psychic,Status,Beautiful
+Crush Grip,Normal,Physical,Tough
+Magma Storm,Fire,Special,Tough
+Dark Void,Dark,Status,Clever
+Seed Flare,Grass,Special,Beautiful
+Ominous Wind,Ghost,Special,Beautiful
+Shadow Force,Ghost,Physical,Cool
+Hone Claws,Dark,Status,Cute
+Wide Guard,Rock,Status,Tough
+Guard Split,Psychic,Status,Clever
+Power Split,Psychic,Status,Clever
+Wonder Room,Psychic,Status,Clever
+Psyshock,Psychic,Special,Beautiful
+Venoshock,Poison,Special,Beautiful
+Autotomize,Steel,Status,Beautiful
+Rage Powder,Bug,Status,Clever
+Telekinesis,Psychic,Status,Clever
+Magic Room,Psychic,Status,Clever
+Smack Down,Rock,Physical,Tough
+Storm Throw,Fighting,Physical,Cool
+Flame Burst,Fire,Special,Beautiful
+Sludge Wave,Poison,Special,Tough
+Quiver Dance,Bug,Status,Beautiful
+Heavy Slam,Steel,Physical,Tough
+Synchronoise,Psychic,Special,Clever
+Electro Ball,Electric,Special,Cool
+Soak,Water,Status,Cute
+Flame Charge,Fire,Physical,Cool
+Coil,Poison,Status,Tough
+Low Sweep,Fighting,Physical,Clever
+Acid Spray,Poison,Special,Beautiful
+Foul Play,Dark,Physical,Clever
+Simple Beam,Normal,Status,Cute
+Entrainment,Normal,Status,Cute
+After You,Normal,Status,Cute
+Round,Normal,Special,Beautiful
+Echoed Voice,Normal,Special,Beautiful
+Chip Away,Normal,Physical,Tough
+Clear Smog,Poison,Special,Beautiful
+Stored Power,Psychic,Special,Clever
+Quick Guard,Fighting,Status,Cool
+Ally Switch,Psychic,Status,Clever
+Scald,Water,Special,Tough
+Shell Smash,Normal,Status,Tough
+Heal Pulse,Psychic,Status,Beautiful
+Hex,Ghost,Special,Clever
+Sky Drop,Flying,Physical,Tough
+Shift Gear,Steel,Status,Clever
+Circle Throw,Fighting,Physical,Cool
+Incinerate,Fire,Special,Tough
+Quash,Dark,Status,Clever
+Acrobatics,Flying,Physical,Cool
+Reflect Type,Normal,Status,Clever
+Retaliate,Normal,Physical,Cool
+Final Gambit,Fighting,Special,Tough
+Bestow,Normal,Status,Cute
+Inferno,Fire,Special,Beautiful
+Water Pledge,Water,Special,Beautiful
+Fire Pledge,Fire,Special,Beautiful
+Grass Pledge,Grass,Special,Beautiful
+Volt Switch,Electric,Special,Cool
+Struggle Bug,Bug,Special,Cute
+Bulldoze,Ground,Physical,Tough
+Frost Breath,Ice,Special,Beautiful
+Dragon Tail,Dragon,Physical,Tough
+Work Up,Normal,Status,Tough
+Electroweb,Electric,Special,Beautiful
+Wild Charge,Electric,Physical,Tough
+Drill Run,Ground,Physical,Tough
+Dual Chop,Dragon,Physical,Tough
+Heart Stamp,Psychic,Physical,Cute
+Horn Leech,Grass,Physical,Tough
+Sacred Sword,Fighting,Physical,Cool
+Razor Shell,Water,Physical,Cool
+Heat Crash,Fire,Physical,Tough
+Leaf Tornado,Grass,Special,Cool
+Steamroller,Bug,Physical,Tough
+Cotton Guard,Grass,Status,Cute
+Night Daze,Dark,Special,Cool
+Psystrike,Psychic,Special,Cool
+Tail Slap,Normal,Physical,Cute
+Hurricane,Flying,Special,Tough
+Head Charge,Normal,Physical,Tough
+Gear Grind,Steel,Physical,Clever
+Searing Shot,Fire,Special,Cool
+Techno Blast,Normal,Special,Cool
+Relic Song,Normal,Special,Beautiful
+Secret Sword,Fighting,Special,Beautiful
+Glaciate,Ice,Special,Beautiful
+Bolt Strike,Electric,Physical,Beautiful
+Blue Flare,Fire,Special,Beautiful
+Fiery Dance,Fire,Special,Beautiful
+Freeze Shock,Ice,Physical,Beautiful
+Ice Burn,Ice,Special,Beautiful
+Snarl,Dark,Special,Tough
+Icicle Crash,Ice,Physical,Beautiful
+V-create,Fire,Physical,Cool
+Fusion Flare,Fire,Special,Beautiful
+Fusion Bolt,Electric,Physical,Cool
+Flying Press,Fighting,Physical,Tough
+Mat Block,Fighting,Status,Cool
+Belch,Poison,Special,Tough
+Rototiller,Ground,Status,Tough
+Sticky Web,Bug,Status,Tough
+Fell Stinger,Bug,Physical,Cool
+Phantom Force,Ghost,Physical,Cool
+Trick-or-Treat,Ghost,Status,Cute
+Noble Roar,Normal,Status,Tough
+Ion Deluge,Electric,Status,Beautiful
+Parabolic Charge,Electric,Special,Clever
+Forest's Curse,Grass,Status,Clever
+Petal Blizzard,Grass,Physical,Beautiful
+Freeze-Dry,Ice,Special,Beautiful
+Disarming Voice,Fairy,Special,Cute
+Parting Shot,Dark,Status,Cool
+Topsy-Turvy,Dark,Status,Clever
+Draining Kiss,Fairy,Special,Cute
+Crafty Shield,Fairy,Status,Clever
+Flower Shield,Fairy,Status,Beautiful
+Grassy Terrain,Grass,Status,Beautiful
+Misty Terrain,Fairy,Status,Beautiful
+Electrify,Electric,Status,Clever
+Play Rough,Fairy,Physical,Cute
+Fairy Wind,Fairy,Special,Beautiful
+Moonblast,Fairy,Special,Beautiful
+Boomburst,Normal,Special,Tough
+Fairy Lock,Fairy,Status,Clever
+King's Shield,Steel,Status,Cool
+Play Nice,Normal,Status,Cute
+Confide,Normal,Status,Cute
+Diamond Storm,Rock,Physical,Beautiful
+Steam Eruption,Water,Special,Beautiful
+Hyperspace Hole,Psychic,Special,Clever
+Water Shuriken,Water,Special,Cool
+Mystical Fire,Fire,Special,Beautiful
+Spiky Shield,Grass,Status,Tough
+Aromatic Mist,Fairy,Status,Beautiful
+Eerie Impulse,Electric,Status,Clever
+Venom Drench,Poison,Status,Clever
+Powder,Bug,Status,Clever
+Geomancy,Fairy,Status,Beautiful
+Magnetic Flux,Electric,Status,Clever
+Happy Hour,Normal,Status,Cute
+Electric Terrain,Electric,Status,Clever
+Dazzling Gleam,Fairy,Special,Beautiful
+Celebrate,Normal,Status,Cute
+Hold Hands,Normal,Status,Cute
+Baby-Doll Eyes,Fairy,Status,Cute
+Nuzzle,Electric,Physical,Cute
+Hold Back,Normal,Physical,Cool
+Infestation,Bug,Special,Cute
+Power-Up Punch,Fighting,Physical,Tough
+Oblivion Wing,Flying,Special,Cool
+Thousand Arrows,Ground,Physical,Beautiful
+Thousand Waves,Ground,Physical,Tough
+Land's Wrath,Ground,Physical,Beautiful
+Light of Ruin,Fairy,Special,Beautiful
+Origin Pulse,Water,Special,Beautiful
+Precipice Blades,Ground,Physical,Cool
+Dragon Ascent,Flying,Physical,Beautiful
+Hyperspace Fury,Dark,Physical,Tough
+Breakneck Blitz,Normal,Physical,???
+Breakneck Blitz,Normal,Special,???
+All-Out Pummeling,Fighting,Physical,???
+All-Out Pummeling,Fighting,Special,???
+Supersonic Skystrike,Flying,Physical,???
+Supersonic Skystrike,Flying,Special,???
+Acid Downpour,Poison,Physical,???
+Acid Downpour,Poison,Special,???
+Tectonic Rage,Ground,Physical,???
+Tectonic Rage,Ground,Special,???
+Continental Crush,Rock,Physical,???
+Continental Crush,Rock,Special,???
+Savage Spin-Out,Bug,Physical,???
+Savage Spin-Out,Bug,Special,???
+Never-Ending Nightmare,Ghost,Physical,???
+Never-Ending Nightmare,Ghost,Special,???
+Corkscrew Crash,Steel,Physical,???
+Corkscrew Crash,Steel,Special,???
+Inferno Overdrive,Fire,Physical,???
+Inferno Overdrive,Fire,Special,???
+Hydro Vortex,Water,Physical,???
+Hydro Vortex,Water,Special,???
+Bloom Doom,Grass,Physical,???
+Bloom Doom,Grass,Special,???
+Gigavolt Havoc,Electric,Physical,???
+Gigavolt Havoc,Electric,Special,???
+Shattered Psyche,Psychic,Physical,???
+Shattered Psyche,Psychic,Special,???
+Subzero Slammer,Ice,Physical,???
+Subzero Slammer,Ice,Special,???
+Devastating Drake,Dragon,Physical,???
+Devastating Drake,Dragon,Special,???
+Black Hole Eclipse,Dark,Physical,???
+Black Hole Eclipse,Dark,Special,???
+Twinkle Tackle,Fairy,Physical,???
+Twinkle Tackle,Fairy,Special,???
+Catastropika,Electric,Physical,???
+Shore Up,Ground,Status,???
+First Impression,Bug,Physical,???
+Baneful Bunker,Poison,Status,???
+Spirit Shackle,Ghost,Physical,???
+Darkest Lariat,Dark,Physical,???
+Sparkling Aria,Water,Special,???
+Ice Hammer,Ice,Physical,???
+Floral Healing,Fairy,Status,???
+High Horsepower,Ground,Physical,???
+Strength Sap,Grass,Status,???
+Solar Blade,Grass,Physical,???
+Leafage,Grass,Physical,???
+Spotlight,Normal,Status,???
+Toxic Thread,Poison,Status,???
+Laser Focus,Normal,Status,???
+Gear Up,Steel,Status,???
+Throat Chop,Dark,Physical,???
+Pollen Puff,Bug,Special,???
+Anchor Shot,Steel,Physical,???
+Psychic Terrain,Psychic,Status,???
+Lunge,Bug,Physical,???
+Fire Lash,Fire,Physical,???
+Power Trip,Dark,Physical,???
+Burn Up,Fire,Special,???
+Speed Swap,Psychic,Status,???
+Smart Strike,Steel,Physical,???
+Purify,Poison,Status,???
+Revelation Dance,Normal,Special,???
+Core Enforcer,Dragon,Special,???
+Trop Kick,Grass,Physical,???
+Instruct,Psychic,Status,???
+Beak Blast,Flying,Physical,???
+Clanging Scales,Dragon,Special,???
+Dragon Hammer,Dragon,Physical,???
+Brutal Swing,Dark,Physical,???
+Aurora Veil,Ice,Status,???
+Sinister Arrow Raid,Ghost,Physical,???
+Malicious Moonsault,Dark,Physical,???
+Oceanic Operetta,Water,Special,???
+Guardian of Alola,Fairy,Special,???
+Soul-Stealing 7-Star Strike,Ghost,Physical,???
+Stoked Sparksurfer,Electric,Special,???
+Pulverizing Pancake,Normal,Physical,???
+Extreme Evoboost,Normal,Status,???
+Genesis Supernova,Psychic,Special,???
+Shell Trap,Fire,Special,???
+Fleur Cannon,Fairy,Special,???
+Psychic Fangs,Psychic,Physical,???
+Stomping Tantrum,Ground,Physical,???
+Shadow Bone,Ghost,Physical,???
+Accelerock,Rock,Physical,???
+Liquidation,Water,Physical,???
+Prismatic Laser,Psychic,Special,???
+Spectral Thief,Ghost,Physical,???
+Sunsteel Strike,Steel,Physical,???
+Moongeist Beam,Ghost,Special,???
+Tearful Look,Normal,Status,???
+Zing Zap,Electric,Physical,???
+Nature's Madness,Fairy,Special,???
+Multi-Attack,Normal,Physical,???
+"10,000,000 Volt Thunderbolt",Electric,Special,???
+Mind Blown,Fire,Special,???
+Plasma Fists,Electric,Physical,???
+Photon Geyser,Psychic,Special,???
+Light That Burns the Sky,Psychic,Special,???
+Searing Sunraze Smash,Steel,Special,???
+Menacing Moonraze Maelstrom,Ghost,Special,???
+Let's Snuggle Forever,Fairy,Physical,???
+Splintered Stormshards,Rock,Physical,???
+Clangorous Soulblaze,Dragon,Special,???

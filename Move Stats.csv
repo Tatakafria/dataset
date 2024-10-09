@@ -1,0 +1,729 @@
+Name,PP,Power,Accuracy,Generation
+Pound,35,40,100,1
+Karate Chop,25,50,100,1
+Double Slap,10,15,85,1
+Comet Punch,15,18,85,1
+Mega Punch,20,80,85,1
+Pay Day,20,40,100,1
+Fire Punch,15,75,100,1
+Ice Punch,15,75,100,1
+Thunder Punch,15,75,100,1
+Scratch,35,40,100,1
+Vice Grip,30,55,100,1
+Guillotine,5,None,None,1
+Razor Wind,10,80,None,1
+Swords Dance,20,None,None,1
+Cut,30,50,95,1
+Gust,35,40,100,1
+Wing Attack,35,60,100,1
+Whirlwind,20,None,None,1
+Fly,15,90,95,1
+Bind,20,15,None,1
+Slam,20,80,75,1
+Vine Whip,25,45,100,1
+Stomp,20,65,100,1
+Double Kick,30,30,100,1
+Mega Kick,5,120,75,1
+Jump Kick,10,100,95,1
+Rolling Kick,15,60,85,1
+Sand Attack,15,None,100,1
+Headbutt,15,70,100,1
+Horn Attack,25,65,100,1
+Fury Attack,20,15,85,1
+Horn Drill,5,None,None,1
+Tackle,35,40,None,1
+Body Slam,15,85,100,1
+Wrap,20,15,None,1
+Take Down,20,90,85,1
+Thrash,10,120,100,1
+Double-Edge,15,120,100,1
+Tail Whip,30,None,100,1
+Poison Sting,35,15,100,1
+Twineedle,20,25,100,1
+Pin Missile,20,25,None,1
+Leer,30,None,100,1
+Bite,25,60,100,1
+Growl,40,None,100,1
+Roar,20,None,None,1
+Sing,15,None,55,1
+Supersonic,20,None,55,1
+Sonic Boom,20,None,90,1
+Disable,20,None,None,1
+Acid,30,40,100,1
+Ember,25,40,100,1
+Flamethrower,15,90,100,1
+Mist,30,None,None,1
+Water Gun,25,40,100,1
+Hydro Pump,5,110,80,1
+Surf,15,90,100,1
+Ice Beam,10,90,100,1
+Blizzard,5,110,None,1
+Psybeam,20,65,100,1
+Bubble Beam,20,65,100,1
+Aurora Beam,20,65,100,1
+Hyper Beam,5,150,90,1
+Peck,35,35,100,1
+Drill Peck,20,80,100,1
+Submission,20,80,80,1
+Low Kick,20,None,None,1
+Counter,20,None,100,1
+Seismic Toss,20,None,100,1
+Strength,15,80,100,1
+Absorb,25,20,100,1
+Mega Drain,15,40,100,1
+Leech Seed,10,None,90,1
+Growth,20,None,None,1
+Razor Leaf,25,55,95,1
+Solar Beam,10,120,100,1
+Poison Powder,35,None,75,1
+Stun Spore,30,None,75,1
+Sleep Powder,15,None,75,1
+Petal Dance,10,120,100,1
+String Shot,40,None,95,1
+Dragon Rage,10,None,100,1
+Fire Spin,15,35,None,1
+Thunder Shock,30,40,100,1
+Thunderbolt,15,90,100,1
+Thunder Wave,20,None,None,1
+Thunder,10,110,70,1
+Rock Throw,15,50,None,1
+Earthquake,10,100,100,1
+Fissure,5,None,None,1
+Dig,10,80,100,1
+Toxic,10,None,None,1
+Confusion,25,50,100,1
+Psychic,10,90,100,1
+Hypnosis,20,None,None,1
+Meditate,40,None,None,1
+Agility,30,None,None,1
+Quick Attack,30,40,100,1
+Rage,20,20,100,1
+Teleport,20,None,None,1
+Night Shade,15,None,100,1
+Mimic,10,None,None,1
+Screech,40,None,85,1
+Double Team,15,None,None,1
+Recover,10,None,None,1
+Harden,30,None,None,1
+Minimize,10,None,None,1
+Smokescreen,20,None,100,1
+Confuse Ray,10,None,100,1
+Withdraw,40,None,None,1
+Defense Curl,40,None,None,1
+Barrier,20,None,None,1
+Light Screen,30,None,None,1
+Haze,30,None,None,1
+Reflect,20,None,None,1
+Focus Energy,30,None,None,1
+Bide,10,None,None,1
+Metronome,10,None,None,1
+Mirror Move,20,None,None,1
+Self-Destruct,5,200,100,1
+Egg Bomb,10,100,75,1
+Lick,30,30,100,1
+Smog,20,30,70,1
+Sludge,20,65,100,1
+Bone Club,20,65,85,1
+Fire Blast,5,110,85,1
+Waterfall,15,80,100,1
+Clamp,15,35,None,1
+Swift,20,60,None,1
+Skull Bash,10,130,100,1
+Spike Cannon,15,20,100,1
+Constrict,35,10,100,1
+Amnesia,20,None,None,1
+Kinesis,15,None,80,1
+Soft-Boiled,10,None,None,1
+High Jump Kick,10,130,90,1
+Glare,30,None,None,1
+Dream Eater,15,100,100,1
+Poison Gas,40,None,None,1
+Barrage,20,15,85,1
+Leech Life,10,80,100,1
+Lovely Kiss,10,None,75,1
+Sky Attack,5,140,90,1
+Transform,10,None,None,1
+Bubble,30,40,100,1
+Dizzy Punch,10,70,100,1
+Spore,15,None,100,1
+Flash,20,None,None,1
+Psywave,15,None,None,1
+Splash,40,None,None,1
+Acid Armor,20,None,None,1
+Crabhammer,10,100,None,1
+Explosion,5,250,100,1
+Fury Swipes,15,18,80,1
+Bonemerang,10,50,90,1
+Rest,10,None,None,1
+Rock Slide,10,75,90,1
+Hyper Fang,15,80,90,1
+Sharpen,30,None,None,1
+Conversion,30,None,None,1
+Tri Attack,10,80,100,1
+Super Fang,10,None,90,1
+Slash,20,70,100,1
+Substitute,10,None,None,1
+Struggle,1,50,None,1
+Sketch,1,None,None,2
+Triple Kick,10,10,90,2
+Thief,25,60,100,2
+Spider Web,10,None,None,2
+Mind Reader,5,None,None,2
+Nightmare,15,None,100,2
+Flame Wheel,25,60,100,2
+Snore,15,50,100,2
+Curse,10,None,None,2
+Flail,15,None,100,2
+Conversion 2,30,None,None,2
+Aeroblast,5,100,95,2
+Cotton Spore,40,None,None,2
+Reversal,15,None,100,2
+Spite,10,None,100,2
+Powder Snow,25,40,100,2
+Protect,10,None,None,2
+Mach Punch,30,40,100,2
+Scary Face,10,None,None,2
+Feint Attack,20,60,None,2
+Sweet Kiss,10,None,75,2
+Belly Drum,10,None,None,2
+Sludge Bomb,10,90,100,2
+Mud-Slap,10,20,100,2
+Octazooka,10,65,85,2
+Spikes,20,None,None,2
+Zap Cannon,5,120,50,2
+Foresight,40,None,None,2
+Destiny Bond,5,None,None,2
+Perish Song,5,None,None,2
+Icy Wind,15,55,95,2
+Detect,5,None,None,2
+Bone Rush,10,25,None,2
+Lock-On,5,None,None,2
+Outrage,10,120,100,2
+Sandstorm,10,None,None,2
+Giga Drain,10,75,100,2
+Endure,10,None,None,2
+Charm,20,None,100,2
+Rollout,20,30,90,2
+False Swipe,40,40,100,2
+Swagger,15,None,None,2
+Milk Drink,10,None,None,2
+Spark,20,65,100,2
+Fury Cutter,20,40,95,2
+Steel Wing,25,70,90,2
+Mean Look,5,None,None,2
+Attract,15,None,100,2
+Sleep Talk,10,None,None,2
+Heal Bell,5,None,None,2
+Return,20,None,100,2
+Present,15,None,90,2
+Frustration,20,None,100,2
+Safeguard,25,None,None,2
+Pain Split,20,None,None,2
+Sacred Fire,5,100,95,2
+Magnitude,30,None,100,2
+Dynamic Punch,5,100,50,2
+Megahorn,10,120,85,2
+Dragon Breath,20,60,100,2
+Baton Pass,40,None,None,2
+Encore,5,None,100,2
+Pursuit,20,40,100,2
+Rapid Spin,40,20,100,2
+Sweet Scent,20,None,100,2
+Iron Tail,15,100,75,2
+Metal Claw,35,50,95,2
+Vital Throw,10,70,None,2
+Morning Sun,5,None,None,2
+Synthesis,5,None,None,2
+Moonlight,5,None,None,2
+Hidden Power,15,60,100,2
+Cross Chop,5,100,80,2
+Twister,20,40,100,2
+Rain Dance,5,None,None,2
+Sunny Day,5,None,None,2
+Crunch,15,80,100,2
+Mirror Coat,20,None,100,2
+Psych Up,10,None,None,2
+Extreme Speed,5,80,100,2
+Ancient Power,5,60,100,2
+Shadow Ball,15,80,100,2
+Future Sight,10,120,None,2
+Rock Smash,15,40,100,2
+Whirlpool,15,35,None,2
+Beat Up,10,None,100,2
+Fake Out,10,40,100,3
+Uproar,10,90,100,3
+Stockpile,20,None,None,3
+Spit Up,10,None,100,3
+Swallow,10,None,None,3
+Heat Wave,10,95,90,3
+Hail,10,None,None,3
+Torment,15,None,100,3
+Flatter,15,None,100,3
+Will-O-Wisp,15,None,None,3
+Memento,10,None,100,3
+Facade,20,70,100,3
+Focus Punch,20,150,100,3
+Smelling Salts,10,70,100,3
+Follow Me,20,None,None,3
+Nature Power,20,None,None,3
+Charge,20,None,None,3
+Taunt,20,None,100,3
+Helping Hand,20,None,None,3
+Trick,10,None,100,3
+Role Play,10,None,None,3
+Wish,10,None,None,3
+Assist,20,None,None,3
+Ingrain,20,None,None,3
+Superpower,5,120,100,3
+Magic Coat,15,None,None,3
+Recycle,10,None,None,3
+Revenge,10,60,100,3
+Brick Break,15,75,100,3
+Yawn,10,None,None,3
+Knock Off,20,65,100,3
+Endeavor,5,None,100,3
+Eruption,5,150,100,3
+Skill Swap,10,None,None,3
+Imprison,10,None,None,3
+Refresh,20,None,None,3
+Grudge,5,None,None,3
+Snatch,10,None,None,3
+Secret Power,20,70,100,3
+Dive,10,80,100,3
+Arm Thrust,20,15,100,3
+Camouflage,20,None,None,3
+Tail Glow,20,None,None,3
+Luster Purge,5,70,100,3
+Mist Ball,5,70,100,3
+Feather Dance,15,None,100,3
+Teeter Dance,20,None,100,3
+Blaze Kick,10,85,90,3
+Mud Sport,15,None,None,3
+Ice Ball,20,30,90,3
+Needle Arm,15,60,100,3
+Slack Off,10,None,None,3
+Hyper Voice,10,90,100,3
+Poison Fang,15,50,100,3
+Crush Claw,10,75,95,3
+Blast Burn,5,150,90,3
+Hydro Cannon,5,150,90,3
+Meteor Mash,10,90,None,3
+Astonish,15,30,100,3
+Weather Ball,10,50,100,3
+Aromatherapy,5,None,None,3
+Fake Tears,20,None,100,3
+Air Cutter,25,60,95,3
+Overheat,5,130,90,3
+Odor Sleuth,40,None,None,3
+Rock Tomb,15,60,None,3
+Silver Wind,5,60,100,3
+Metal Sound,40,None,85,3
+Grass Whistle,15,None,55,3
+Tickle,20,None,100,3
+Cosmic Power,20,None,None,3
+Water Spout,5,150,100,3
+Signal Beam,15,75,100,3
+Shadow Punch,20,60,None,3
+Extrasensory,20,80,100,3
+Sky Uppercut,15,85,90,3
+Sand Tomb,15,35,None,3
+Sheer Cold,5,None,None,3
+Muddy Water,10,90,85,3
+Bullet Seed,30,25,100,3
+Aerial Ace,20,60,None,3
+Icicle Spear,30,25,100,3
+Iron Defense,15,None,None,3
+Block,5,None,None,3
+Howl,40,None,None,3
+Dragon Claw,15,80,100,3
+Frenzy Plant,5,150,90,3
+Bulk Up,20,None,None,3
+Bounce,5,85,85,3
+Mud Shot,15,55,95,3
+Poison Tail,25,50,100,3
+Covet,25,60,100,3
+Volt Tackle,15,120,100,3
+Magical Leaf,20,60,None,3
+Water Sport,15,None,None,3
+Calm Mind,20,None,None,3
+Leaf Blade,15,90,100,3
+Dragon Dance,20,None,None,3
+Rock Blast,10,25,None,3
+Shock Wave,20,60,None,3
+Water Pulse,20,60,100,3
+Doom Desire,5,140,None,3
+Psycho Boost,5,140,90,3
+Roost,10,None,None,4
+Gravity,5,None,None,4
+Miracle Eye,40,None,None,4
+Wake-Up Slap,10,70,100,4
+Hammer Arm,10,100,90,4
+Gyro Ball,5,None,100,4
+Healing Wish,10,None,None,4
+Brine,10,65,100,4
+Natural Gift,15,None,100,4
+Feint,10,30,100,4
+Pluck,20,60,100,4
+Tailwind,15,None,None,4
+Acupressure,30,None,None,4
+Metal Burst,10,None,100,4
+U-turn,20,70,100,4
+Close Combat,5,120,100,4
+Payback,10,50,100,4
+Assurance,10,60,100,4
+Embargo,15,None,100,4
+Fling,10,None,100,4
+Psycho Shift,10,None,None,4
+Trump Card,5,None,None,4
+Heal Block,15,None,100,4
+Wring Out,5,None,100,4
+Power Trick,10,None,None,4
+Gastro Acid,10,None,100,4
+Lucky Chant,30,None,None,4
+Me First,20,None,None,4
+Copycat,20,None,None,4
+Power Swap,10,None,None,4
+Guard Swap,10,None,None,4
+Punishment,5,None,100,4
+Last Resort,5,140,100,4
+Worry Seed,10,None,100,4
+Sucker Punch,5,70,100,4
+Toxic Spikes,20,None,None,4
+Heart Swap,10,None,None,4
+Aqua Ring,20,None,None,4
+Magnet Rise,10,None,None,4
+Flare Blitz,15,120,100,4
+Force Palm,10,60,100,4
+Aura Sphere,20,80,None,4
+Rock Polish,20,None,None,4
+Poison Jab,20,80,100,4
+Dark Pulse,15,80,100,4
+Night Slash,15,70,100,4
+Aqua Tail,10,90,90,4
+Seed Bomb,15,80,100,4
+Air Slash,15,75,95,4
+X-Scissor,15,80,100,4
+Bug Buzz,10,90,100,4
+Dragon Pulse,10,85,100,4
+Dragon Rush,10,100,75,4
+Power Gem,20,80,100,4
+Drain Punch,10,75,100,4
+Vacuum Wave,30,40,100,4
+Focus Blast,5,120,70,4
+Energy Ball,10,90,100,4
+Brave Bird,15,120,100,4
+Earth Power,10,90,100,4
+Switcheroo,10,None,100,4
+Giga Impact,5,150,90,4
+Nasty Plot,20,None,None,4
+Bullet Punch,30,40,100,4
+Avalanche,10,60,100,4
+Ice Shard,30,40,100,4
+Shadow Claw,15,70,100,4
+Thunder Fang,15,65,95,4
+Ice Fang,15,65,95,4
+Fire Fang,15,65,95,4
+Shadow Sneak,30,40,100,4
+Mud Bomb,10,65,85,4
+Psycho Cut,20,70,100,4
+Zen Headbutt,15,80,90,4
+Mirror Shot,10,65,85,4
+Flash Cannon,10,80,100,4
+Rock Climb,20,90,85,4
+Defog,15,None,None,4
+Trick Room,5,None,None,4
+Draco Meteor,5,130,90,4
+Discharge,15,80,100,4
+Lava Plume,15,80,100,4
+Leaf Storm,5,130,90,4
+Power Whip,10,120,85,4
+Rock Wrecker,5,150,90,4
+Cross Poison,20,70,100,4
+Gunk Shot,5,120,None,4
+Iron Head,15,80,100,4
+Magnet Bomb,20,60,None,4
+Stone Edge,5,100,80,4
+Captivate,20,None,100,4
+Stealth Rock,20,None,None,4
+Grass Knot,20,None,100,4
+Chatter,20,65,100,4
+Judgment,10,100,100,4
+Bug Bite,20,60,100,4
+Charge Beam,10,50,90,4
+Wood Hammer,15,120,100,4
+Aqua Jet,20,40,100,4
+Attack Order,15,90,100,4
+Defend Order,10,None,None,4
+Heal Order,10,None,None,4
+Head Smash,5,150,80,4
+Double Hit,10,35,90,4
+Roar of Time,5,150,90,4
+Spacial Rend,5,100,95,4
+Lunar Dance,10,None,None,4
+Crush Grip,5,None,100,4
+Magma Storm,5,100,None,4
+Dark Void,10,None,None,4
+Seed Flare,5,120,85,4
+Ominous Wind,5,60,100,4
+Shadow Force,5,120,100,4
+Hone Claws,15,None,None,5
+Wide Guard,10,None,None,5
+Guard Split,10,None,None,5
+Power Split,10,None,None,5
+Wonder Room,10,None,None,5
+Psyshock,10,80,100,5
+Venoshock,10,65,100,5
+Autotomize,15,None,None,5
+Rage Powder,20,None,None,5
+Telekinesis,15,None,None,5
+Magic Room,10,None,None,5
+Smack Down,15,50,100,5
+Storm Throw,10,60,100,5
+Flame Burst,15,70,100,5
+Sludge Wave,10,95,100,5
+Quiver Dance,20,None,None,5
+Heavy Slam,10,None,100,5
+Synchronoise,10,120,100,5
+Electro Ball,10,None,100,5
+Soak,20,None,100,5
+Flame Charge,20,50,100,5
+Coil,20,None,None,5
+Low Sweep,20,65,100,5
+Acid Spray,20,40,100,5
+Foul Play,15,95,100,5
+Simple Beam,15,None,100,5
+Entrainment,15,None,100,5
+After You,15,None,None,5
+Round,15,60,100,5
+Echoed Voice,15,40,100,5
+Chip Away,20,70,100,5
+Clear Smog,15,50,None,5
+Stored Power,10,20,100,5
+Quick Guard,15,None,None,5
+Ally Switch,15,None,None,5
+Scald,15,80,100,5
+Shell Smash,15,None,None,5
+Heal Pulse,10,None,None,5
+Hex,10,65,100,5
+Sky Drop,10,60,100,5
+Shift Gear,10,None,None,5
+Circle Throw,10,60,90,5
+Incinerate,15,60,100,5
+Quash,15,None,100,5
+Acrobatics,15,55,100,5
+Reflect Type,15,None,None,5
+Retaliate,5,70,100,5
+Final Gambit,5,None,100,5
+Bestow,15,None,None,5
+Inferno,5,100,50,5
+Water Pledge,10,80,100,5
+Fire Pledge,10,80,100,5
+Grass Pledge,10,80,100,5
+Volt Switch,20,70,100,5
+Struggle Bug,20,50,100,5
+Bulldoze,20,60,100,5
+Frost Breath,10,60,90,5
+Dragon Tail,10,60,90,5
+Work Up,30,None,None,5
+Electroweb,15,55,95,5
+Wild Charge,15,90,100,5
+Drill Run,10,80,95,5
+Dual Chop,15,40,90,5
+Heart Stamp,25,60,100,5
+Horn Leech,10,75,100,5
+Sacred Sword,15,90,100,5
+Razor Shell,10,75,95,5
+Heat Crash,10,None,100,5
+Leaf Tornado,10,65,90,5
+Steamroller,20,65,100,5
+Cotton Guard,10,None,None,5
+Night Daze,10,85,95,5
+Psystrike,10,100,100,5
+Tail Slap,10,25,85,5
+Hurricane,10,110,70,5
+Head Charge,15,120,100,5
+Gear Grind,15,50,85,5
+Searing Shot,5,100,100,5
+Techno Blast,5,120,100,5
+Relic Song,10,75,100,5
+Secret Sword,10,85,100,5
+Glaciate,10,65,95,5
+Bolt Strike,5,130,85,5
+Blue Flare,5,130,85,5
+Fiery Dance,10,80,100,5
+Freeze Shock,5,140,90,5
+Ice Burn,5,140,90,5
+Snarl,15,55,95,5
+Icicle Crash,10,85,90,5
+V-create,5,180,95,5
+Fusion Flare,5,100,100,5
+Fusion Bolt,5,100,100,5
+Flying Press,10,100,95,6
+Mat Block,10,None,None,6
+Belch,10,120,90,6
+Rototiller,10,None,None,6
+Sticky Web,20,None,None,6
+Fell Stinger,25,50,100,6
+Phantom Force,10,90,100,6
+Trick-or-Treat,20,None,100,6
+Noble Roar,30,None,100,6
+Ion Deluge,25,None,None,6
+Parabolic Charge,20,65,100,6
+Forest's Curse,20,None,100,6
+Petal Blizzard,15,90,100,6
+Freeze-Dry,20,70,100,6
+Disarming Voice,15,40,None,6
+Parting Shot,20,None,100,6
+Topsy-Turvy,20,None,None,6
+Draining Kiss,10,50,100,6
+Crafty Shield,10,None,None,6
+Flower Shield,10,None,None,6
+Grassy Terrain,10,None,None,6
+Misty Terrain,10,None,None,6
+Electrify,20,None,None,6
+Play Rough,10,90,90,6
+Fairy Wind,30,40,100,6
+Moonblast,15,95,100,6
+Boomburst,10,140,100,6
+Fairy Lock,10,None,None,6
+King's Shield,10,None,None,6
+Play Nice,20,None,None,6
+Confide,20,None,None,6
+Diamond Storm,5,100,95,6
+Steam Eruption,5,110,95,6
+Hyperspace Hole,5,80,None,6
+Water Shuriken,20,15,100,6
+Mystical Fire,10,75,100,6
+Spiky Shield,10,None,None,6
+Aromatic Mist,20,None,None,6
+Eerie Impulse,15,None,100,6
+Venom Drench,20,None,100,6
+Powder,20,None,100,6
+Geomancy,10,None,None,6
+Magnetic Flux,20,None,None,6
+Happy Hour,30,None,None,6
+Electric Terrain,10,None,None,6
+Dazzling Gleam,10,80,100,6
+Celebrate,40,None,None,6
+Hold Hands,40,None,None,6
+Baby-Doll Eyes,30,None,100,6
+Nuzzle,20,20,100,6
+Hold Back,40,40,100,6
+Infestation,20,20,100,6
+Power-Up Punch,20,40,100,6
+Oblivion Wing,10,80,100,6
+Thousand Arrows,10,90,100,6
+Thousand Waves,10,90,100,6
+Land's Wrath,10,90,100,6
+Light of Ruin,5,140,90,6
+Origin Pulse,10,110,85,6
+Precipice Blades,10,120,85,6
+Dragon Ascent,5,120,100,6
+Hyperspace Fury,5,100,None,6
+Breakneck Blitz,1,None,None,7
+Breakneck Blitz,1,None,None,7
+All-Out Pummeling,1,None,None,7
+All-Out Pummeling,1,None,None,7
+Supersonic Skystrike,1,None,None,7
+Supersonic Skystrike,1,None,None,7
+Acid Downpour,1,None,None,7
+Acid Downpour,1,None,None,7
+Tectonic Rage,1,None,None,7
+Tectonic Rage,1,None,None,7
+Continental Crush,1,None,None,7
+Continental Crush,1,None,None,7
+Savage Spin-Out,1,None,None,7
+Savage Spin-Out,1,None,None,7
+Never-Ending Nightmare,1,None,None,7
+Never-Ending Nightmare,1,None,None,7
+Corkscrew Crash,1,None,None,7
+Corkscrew Crash,1,None,None,7
+Inferno Overdrive,1,None,None,7
+Inferno Overdrive,1,None,None,7
+Hydro Vortex,1,None,None,7
+Hydro Vortex,1,None,None,7
+Bloom Doom,1,None,None,7
+Bloom Doom,1,None,None,7
+Gigavolt Havoc,1,None,None,7
+Gigavolt Havoc,1,None,None,7
+Shattered Psyche,1,None,None,7
+Shattered Psyche,1,None,None,7
+Subzero Slammer,1,None,None,7
+Subzero Slammer,1,None,None,7
+Devastating Drake,1,None,None,7
+Devastating Drake,1,None,None,7
+Black Hole Eclipse,1,None,None,7
+Black Hole Eclipse,1,None,None,7
+Twinkle Tackle,1,None,None,7
+Twinkle Tackle,1,None,None,7
+Catastropika,1,210,None,7
+Shore Up,10,None,None,7
+First Impression,10,90,100,7
+Baneful Bunker,10,None,None,7
+Spirit Shackle,10,80,100,7
+Darkest Lariat,10,85,100,7
+Sparkling Aria,10,90,100,7
+Ice Hammer,10,100,90,7
+Floral Healing,10,None,None,7
+High Horsepower,10,95,95,7
+Strength Sap,10,None,100,7
+Solar Blade,10,125,100,7
+Leafage,40,40,100,7
+Spotlight,15,None,None,7
+Toxic Thread,20,None,100,7
+Laser Focus,30,None,None,7
+Gear Up,20,None,None,7
+Throat Chop,15,80,100,7
+Pollen Puff,15,90,100,7
+Anchor Shot,20,80,100,7
+Psychic Terrain,10,None,None,7
+Lunge,15,80,100,7
+Fire Lash,15,80,100,7
+Power Trip,10,20,100,7
+Burn Up,5,130,100,7
+Speed Swap,10,None,None,7
+Smart Strike,10,70,None,7
+Purify,20,None,None,7
+Revelation Dance,15,90,100,7
+Core Enforcer,10,100,100,7
+Trop Kick,15,70,100,7
+Instruct,15,None,None,7
+Beak Blast,15,100,100,7
+Clanging Scales,5,110,100,7
+Dragon Hammer,15,90,100,7
+Brutal Swing,20,60,100,7
+Aurora Veil,20,None,None,7
+Sinister Arrow Raid,1,180,None,7
+Malicious Moonsault,1,180,None,7
+Oceanic Operetta,1,195,None,7
+Guardian of Alola,1,None,None,7
+Soul-Stealing 7-Star Strike,1,195,None,7
+Stoked Sparksurfer,1,175,None,7
+Pulverizing Pancake,1,210,None,7
+Extreme Evoboost,1,None,None,7
+Genesis Supernova,1,185,None,7
+Shell Trap,5,150,100,7
+Fleur Cannon,5,130,90,7
+Psychic Fangs,10,85,100,7
+Stomping Tantrum,10,75,100,7
+Shadow Bone,10,85,100,7
+Accelerock,20,40,100,7
+Liquidation,10,85,100,7
+Prismatic Laser,10,160,100,7
+Spectral Thief,10,90,100,7
+Sunsteel Strike,5,100,100,7
+Moongeist Beam,5,100,100,7
+Tearful Look,20,None,None,7
+Zing Zap,10,80,100,7
+Nature's Madness,10,None,90,7
+Multi-Attack,10,90,100,7
+"10,000,000 Volt Thunderbolt",1,195,None,7
+Mind Blown,5,150,100,7
+Plasma Fists,15,100,100,7
+Photon Geyser,5,100,100,7
+Light That Burns the Sky,1,200,None,7
+Searing Sunraze Smash,1,200,None,7
+Menacing Moonraze Maelstrom,1,200,None,7
+Let's Snuggle Forever,1,190,None,7
+Splintered Stormshards,1,190,None,7
+Clangorous Soulblaze,1,185,None,7
